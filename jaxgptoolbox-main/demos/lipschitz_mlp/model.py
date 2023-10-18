@@ -5,7 +5,7 @@ import jaxgptoolbox as jgp
 import jax
 import jax.numpy as np
 from jax import jit, value_and_grad
-from jax.experimental import optimizers
+import optax
 
 import numpy as onp
 import numpy.random as random
