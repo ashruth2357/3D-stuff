@@ -1,6 +1,6 @@
 import sys
 sys.path.append('../../../')
-import jaxgptoolbox-main as jgp
+import jaxgptoolbox as jgp
 
 import jax
 import jax.numpy as np
